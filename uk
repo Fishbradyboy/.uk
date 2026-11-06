@@ -18604,4 +18604,7 @@
 local Options = Library.Options
 local Toggles = Library.Toggles
 
+Library.ThemeManager = ThemeManager
+Library.SaveManager = SaveManager
+
 return Library
