@@ -18603,3 +18603,5 @@
 
 local Options = Library.Options
 local Toggles = Library.Toggles
+
+return Library
